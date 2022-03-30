@@ -1,0 +1,44 @@
+* { margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg_success {
+    border: 1px solid #28A745;
+    background: #28A745 !important;
+}
+
+.text_gris_oscuro {
+    color: #212529;
+}
+
+.text_gris_claro {
+    color: #707070;
+    margin-bottom: 0px;
+}
+
+.text_success {
+    color: #28A745;
+    font-weight: 500;
+}
+
+.text_white {
+    color: #ffffff;
+    font-weight: 500; 
+    margin: 0px;
+}
+
+.font_sx_1 {
+    font-size: 1.04rem;
+}
+
+.font_sx_2 {
+    font-size: 0.85rem;
+}
+
+.font_sx_3 {
+    font-size: 0.6rem;
+}
+
+.borde_gris {
+    border-top: 1px solid #DDDDDD !important;
+}
